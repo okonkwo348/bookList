@@ -1,6 +1,5 @@
-Below is a comprehensive `README.md` file tailored to your project based on the information provided. This includes the features, setup steps, tools used, and additional details inferred from our interactions.
+Below is a comprehensive `README.md` file that includes the features, setup steps, tools used.
 
-```markdown
 # BookList API Project
 
 Welcome to the BookList API project! This is a Django-based RESTful API application designed to manage book-related data and provide user authentication features. The project leverages modern Python tools and libraries to create a robust backend service.
@@ -187,6 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 - **Author**: Okonkwo Chi
 - **GitHub**: [https://github.com/okonkwochi](https://github.com/okonkwochi)
-- **Email**: [your-email@example.com](mailto:your-email@example.com) (replace with your email)
+- **Email**: [okonkwoemmanuel348@gmail.com](okonkwoemmanuel348@gmail.com) 
 
 ---
