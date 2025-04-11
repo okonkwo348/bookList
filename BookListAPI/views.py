@@ -20,6 +20,9 @@ def user_info(request):
             'token':token.key
         })
     return HttpResponseRedirect('/api-auth/login/')
+
+
+    
 class BookList(generics.ListCreateAPIView):
     queryset=Book.objects.all()
     serializer_class=BookSerializer
